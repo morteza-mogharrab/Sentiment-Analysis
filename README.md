@@ -1,4 +1,4 @@
-# Sentiment Analysis Project ReadMe
+# Sentiment Analysis and Subjectivity Detection
 
 ## Overview
 
