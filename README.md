@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to analyze the sentiment of Amazon food reviews using various natural language processing (NLP) techniques. Three different sentiment analysis methods are employed: TextBlob, BERT transformers, and VADER.
+This project aims to analyze the sentiment and subjectivity of Amazon food reviews using various natural language processing (NLP) techniques. Three different sentiment analysis methods are employed: TextBlob, BERT transformers, and VADER.
 
 ## Data Source
 
@@ -12,7 +12,7 @@ The data used for sentiment analysis is sourced from the Amazon food review data
 
 ### TextBlob
 
-TextBlob is a simple NLP library that provides tools for text processing tasks such as part-of-speech tagging, noun phrase extraction, and sentiment analysis.
+TextBlob is a simple NLP library that provides tools for text-processing tasks such as part-of-speech tagging, noun phrase extraction, and sentiment analysis.
 
 ### BERT Transformers
 
@@ -26,7 +26,7 @@ VADER is a lexicon and rule-based sentiment analysis tool that is specifically a
 
 1. **Data Preparation**: Ensure your Amazon food review data is in a compatible format (.txt or .csv).
 2. **Choose Method**: Decide which sentiment analysis method you want to use: TextBlob, BERT transformers, or VADER.
-3. **Run Code**: Execute the corresponding code block for the chosen method by providing the file path to your review data.
+3. **Run Code**: Execute the corresponding code file for the chosen method by providing the file path to your review data.
 4. **View Results**: Analyzed sentiment results will be displayed in the form of pie charts, indicating the distribution of sentiments (negative, neutral, positive) or subjectivity (objective, subjective) in the reviews.
 
 ## Dependencies
